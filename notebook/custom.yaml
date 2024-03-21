@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/yolov7/ISD/train.txt
+val: /content/drive/MyDrive/yolov7/ISD/val.txt
+
+nc: 5
+names: ['Helmet','Goggles','Jacket','Gloves','Footwear']
